@@ -48,7 +48,7 @@ VALUES (2021,'2021-09-22','Hobbit Day',uuid());
 INSERT INTO nerd_holidays (year_bucket, event_date, name, id)
 VALUES (2021,'2021-12-21','2112 Day',uuid());
 INSERT INTO nerd_holidays (year_bucket, event_date, name, id)
-VALUES (2021,'2021-10-2','Ada Lovelace Day',uuid());
+VALUES (2021,'2021-10-02','Ada Lovelace Day',uuid());
 INSERT INTO nerd_holidays (year_bucket, event_date, name, id)
 VALUES (2021,'2021-10-21','Marty McFly Day',uuid());
 INSERT INTO nerd_holidays (year_bucket, event_date, name, id)
